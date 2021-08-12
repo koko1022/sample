@@ -75,7 +75,7 @@ img {
     background: #0090aa;
 }
 #home{
-    background-img: url(https://raw.githubusercontent.com/koko1022/sample/main/main-bg.jpg);
+    background-img: url(https://koko1022.github.io/sample/img/main-bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 100vh;
